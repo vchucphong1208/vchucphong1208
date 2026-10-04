@@ -8,10 +8,9 @@ My current interests lie primarily in electronic-structure theory, quantum many-
 
 - Electronic Structure Theory
 - Quantum Many-Body Theory
-- Computational Quantum Chemistry
-- Open-Shell Electronic Structure Methods
-- Quantum Mechanics
-- Quantum Field Theory
+- Condensed Matter Physics
+
+
 
 ## Current Research
 
